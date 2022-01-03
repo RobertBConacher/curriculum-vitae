@@ -197,7 +197,7 @@ Contact Info {#contact}
 
 - <i class="fa fa-envelope"></i> c.davies@growing-research.com
 - <i class="fa fa-gitlab"></i> [gitlab.com/cjjdavies](https://gitlab.com/cjjdavies)
-- <i class="fa fa-phone"></i> 07480 149610
+- <i class="fa fa-phone"></i> xxxxx xxxxxx
 - For more information, please contact me via email.
 
 Key Skills {#skills}
@@ -277,7 +277,7 @@ Edinburgh, UK
 - Ensure compliance with the Code of Practice
 - Quality check Excel workbooks
 
-### Development Manager (Voluntary, part-time)
+### Development Manager
 
 EqualiTree CIC
 
